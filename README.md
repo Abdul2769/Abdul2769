@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, <br>👩🏻‍💻 I'm Abdul Majeedh, a skilled Data Analyst based in India. With expertise in Power BI, Tableau, Python Basics, SQL, and Artificial Intelligence, I transform data into actionable insights to drive informed decisions and solutions.
+Hello, <br>👩🏻‍💻 I'm Abdul Majeedh, a skilled Data Analyst based in India. With expertise in Power BI, Tableau, Advance Excel, Looker, Python Basics, SQL, and Artificial Intelligence, I transform data into actionable insights to drive informed decisions and solutions.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="400" height="280" />
 
